@@ -1,4 +1,9 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TEDjyy)](https://github.com/TEDjyy)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TEDjyy&theme=dark&show_icons=true)](https://github.com/TEDjyy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TEDjyy&langs_count=8&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TEDjyy&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Hi there 👋
 
