@@ -1,7 +1,7 @@
 ```java
-class Ted {  
+class HelloDeveloper {  
     public static void main(String args[]){  
-     System.out.println("Hello, Ted");  
+     System.out.println("Hello, Developer");  
     }  
 }  
 ```
